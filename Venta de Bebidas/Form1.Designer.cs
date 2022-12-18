@@ -33,6 +33,7 @@
             this.lbl_usuario = new System.Windows.Forms.Label();
             this.lbl_seña = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.lbl_bienvenido = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -75,12 +76,23 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Ingresar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // lbl_bienvenido
+            // 
+            this.lbl_bienvenido.AutoSize = true;
+            this.lbl_bienvenido.Location = new System.Drawing.Point(145, 230);
+            this.lbl_bienvenido.Name = "lbl_bienvenido";
+            this.lbl_bienvenido.Size = new System.Drawing.Size(10, 13);
+            this.lbl_bienvenido.TabIndex = 5;
+            this.lbl_bienvenido.Text = ".";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(295, 309);
+            this.Controls.Add(this.lbl_bienvenido);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lbl_seña);
             this.Controls.Add(this.lbl_usuario);
@@ -100,6 +112,7 @@
         private System.Windows.Forms.Label lbl_usuario;
         private System.Windows.Forms.Label lbl_seña;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label lbl_bienvenido;
     }
 }
 

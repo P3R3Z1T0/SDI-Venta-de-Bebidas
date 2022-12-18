@@ -16,5 +16,10 @@ namespace Venta_de_Bebidas
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lbl_bienvenido.Text = "Bienvenido";
+        }
     }
 }
