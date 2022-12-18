@@ -1,0 +1,11 @@
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\bin\Debug\Venta de Bebidas.exe.config
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\bin\Debug\Venta de Bebidas.exe
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\bin\Debug\Venta de Bebidas.pdb
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta de Bebidas.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta de Bebidas.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta_de_Bebidas.Form1.resources
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta_de_Bebidas.Properties.Resources.resources
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta de Bebidas.csproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta de Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta de Bebidas.exe
+C:\Users\crist\OneDrive\Escritorio\Venta de Bebidas\Venta de Bebidas\obj\Debug\Venta de Bebidas.pdb
